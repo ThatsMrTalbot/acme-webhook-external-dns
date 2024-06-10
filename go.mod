@@ -20,8 +20,8 @@ replace k8s.io/client-go => k8s.io/client-go v0.0.0-20240509043313-62f959700d55
 replace k8s.io/apimachinery => k8s.io/apimachinery v0.0.0-20240510224318-1da46c3f5a5b
 
 require (
-	github.com/cert-manager/cert-manager v1.14.6
-	github.com/go-logr/logr v1.4.1
+	github.com/cert-manager/cert-manager v1.15.0
+	github.com/go-logr/logr v1.4.2
 	github.com/miekg/dns v1.1.59
 	k8s.io/apiextensions-apiserver v0.30.1
 	k8s.io/apimachinery v0.30.1
@@ -115,6 +115,7 @@ require (
 	golang.org/x/text v0.15.0 // indirect
 	golang.org/x/time v0.5.0 // indirect
 	golang.org/x/tools v0.21.0 // indirect
+	gomodules.xyz/jsonpatch/v2 v2.4.0 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20240515191416-fc5f0ca64291 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240515191416-fc5f0ca64291 // indirect
 	google.golang.org/grpc v1.64.0 // indirect
