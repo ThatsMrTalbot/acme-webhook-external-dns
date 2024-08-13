@@ -23,10 +23,10 @@ require (
 	github.com/cert-manager/cert-manager v1.14.7
 	github.com/go-logr/logr v1.4.2
 	github.com/miekg/dns v1.1.61
-	k8s.io/apiextensions-apiserver v0.30.2
-	k8s.io/apimachinery v0.30.2
-	k8s.io/client-go v0.30.2
-	sigs.k8s.io/controller-runtime v0.18.4
+	k8s.io/apiextensions-apiserver v0.30.3
+	k8s.io/apimachinery v0.30.3
+	k8s.io/client-go v0.30.3
+	sigs.k8s.io/controller-runtime v0.18.5
 	sigs.k8s.io/external-dns v0.14.2
 	sigs.k8s.io/yaml v1.4.0
 )
@@ -125,11 +125,11 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	istio.io/api v1.22.0 // indirect
 	istio.io/client-go v1.22.0 // indirect
-	k8s.io/api v0.30.2 // indirect
-	k8s.io/apiserver v0.30.2 // indirect
-	k8s.io/component-base v0.30.2 // indirect
+	k8s.io/api v0.30.3 // indirect
+	k8s.io/apiserver v0.30.3 // indirect
+	k8s.io/component-base v0.30.3 // indirect
 	k8s.io/klog/v2 v2.120.1 // indirect
-	k8s.io/kms v0.30.2 // indirect
+	k8s.io/kms v0.30.3 // indirect
 	k8s.io/kube-openapi v0.0.0-20240430033511-f0e62f92d13f // indirect
 	k8s.io/utils v0.0.0-20240502163921-fe8a2dddb1d0 // indirect
 	sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.30.3 // indirect
